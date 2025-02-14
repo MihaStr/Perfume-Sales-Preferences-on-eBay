@@ -1,8 +1,8 @@
-# Perfume-Sales-Preferences-on-eBay
+# eBAY PERFUME PICKS
 <span style="color:	#008080 ; font-size:20px">Mihaela Strimbeschi</span>
 
 <div style="text-align:center; color:#008080; font-size:20px">
-  <h3>Perfume Sales & Preferences on eBay</h3>
+  <h3>eBAY PERFUME PICKS</h3>
 </div>
 
 ---
